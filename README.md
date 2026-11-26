@@ -1,8 +1,4 @@
-# Mercy Diana Namumbya
-
-**AI Engineer · LLMs, RAG, agents, and evaluation**
-
-I build agents and retrieval systems with budgets, guardrails, and checks on the model's work.
+# I build agents that cite their sources and check the model's work.
 
 ## Projects
 
